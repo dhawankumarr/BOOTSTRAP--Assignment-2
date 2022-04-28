@@ -1,0 +1,339 @@
+body{
+    background-color: #f5f5f5;
+    padding-top: 150px;
+}
+
+header{
+    background-color: #f5f5f5;
+}
+.tata-logo{
+    margin: 0 0 0 70px;
+}
+
+.main-heading{
+    margin: 0 0 0px 80px;
+    color: #264a9f;
+}
+.tata-logo{
+    margin: 15px 0 0 85px;
+}
+
+
+.about-main-heading{
+    margin: 10px 0 0 83px;
+    color: rgba(7,30,84,.8);
+}
+
+.lady-photo{
+    width: 570px;
+    height: 330px;
+    margin: -155px 50px 0 0;
+}
+
+.get-associate{
+    margin: 0 0 0 70px;
+    color: #18478b;
+}
+
+.form {
+    background-image: linear-gradient(to bottom right, #eff0f3, #e5e6eb);
+    border: none;
+    margin-bottom: 4rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-heading {
+    color: #264a9f;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: normal;
+  }
+
+.label-input {
+    color: #071e54;
+    font-size: 13px;
+    opacity: 0.5;
+  }
+  
+  .css-container {
+    position: relative;
+    box-sizing: border-box;
+  }
+  
+  .title-div1 {
+    align-items: center;
+    background-color: transparent !important;
+    border-color: hsl(0, 0%, 80%);
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: inset 3px 3px 6px #bfc3cf, inset -3px -3px 6px #ffffff;
+    cursor: default;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    min-height: 38px;
+    outline: 0 !important;
+    position: relative;
+    transition: all 100ms;
+    box-sizing: border-box;
+    color: #071e54;
+    opacity: 0.8;
+    border: none !important;
+  }
+  
+  .title-div2{
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    padding: 2px 8px;
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  
+  .title-div3 {
+    color: #071e54;
+    margin-left: 2px;
+    margin-right: 2px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    box-sizing: border-box;
+    padding-left: 15px;
+    opacity: 0.2;
+  }
+  
+  .title-input {
+    background: 0;
+    border: 0;
+    font-size: 12px;
+    outline: 0;
+    padding: 0;
+    width: 1px;
+    color: transparent;
+    left: 100px;
+    opacity: 1;
+    position: relative;
+    transform: scale(0);
+  }
+  
+  .form-input {
+    border-radius: 50px;
+    background: transparent;
+    width: 100%;
+    border: none;
+    outline: none !important;
+    font-weight: 600;
+    line-height: 1.5;
+    box-shadow: inset 3px 3px 6px #bfc3cf, inset -3px -3px 6px #fff;
+    height: 40px;
+    padding-left: 20px;
+  }
+  
+  .form-input:focus {
+    background: transparent;
+    outline: none !important;
+  }
+  
+  .form-input::placeholder {
+    color: #071e54;
+    opacity: 0.5;
+  }
+
+  .select-arrow{
+      margin: -30px 0 0 300px;
+      color:rgba(13, 53, 148, 0.898039);
+      cursor: pointer;
+  }
+  
+  .mainbutton {
+    background: transparent
+      linear-gradient(276deg, rgba(13, 53, 148, 0.898039), #35d3f2) 0 0 no-repeat
+      padding-box;
+    color: #fff;
+    width: 100%;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+  
+  .buttontxt {
+    color: #071e54;
+    opacity: 0.4;
+    margin-top: 2px;
+    font-size: 13px;
+    margin-left: 18px;
+    margin-bottom: 12px;
+  }
+
+  .join-tata-aig{
+        background-color: #ebecf0;
+        padding: 0 100px 0 90px;
+        color: #071e54;
+  }
+
+  .join-tata-aig-line{
+    margin: -10px 0 0 -20px;
+    width: 20px;
+    height: 200px;
+    border-right:2px dotted lightgrey;
+  }
+
+  .join-tata-aig .earning{
+      margin: -188px 0 128px 850px;
+  }
+  .join-tata-aig .rounded-circle{
+      margin: 0 0 0 90px;
+    box-shadow: inset 4px 4px 5px #bfc3cf, inset -4px -4px 5px #fff;
+  }
+
+  .join-tata-aig i{
+      font-size: 35px;
+      border-radius: 50% ;
+      }
+
+
+.men-photo{
+    width: 570px;
+    height: 330px;
+    margin: -335px 50px 0 0;
+}
+
+.tata-list{
+    list-style: none;
+}
+.tata-list span{
+    margin: 5px 0 0 10px;
+    color: rgba(7,30,84,.8);
+}
+
+.check-bullets{
+    width: 45px;
+    margin-left: -25px;
+}
+
+.contact-div{
+    border: 2px transparent;
+    background-color: #ebecf0;
+    border-radius: 10px;
+    line-height: 60px;
+    width: 1200px;
+    height: 470px;
+    padding: 30px 0 0 60px;
+}
+.tata-logo-bottom{
+    width: 55px;
+    height: 55px;
+    margin: 15px 0 -60px 60px;
+}
+.download{
+    padding-top: 50px;
+    margin:0 0 0 -58px;
+    color: rgba(7,30,84,.8);
+}
+.google-play{
+    width: 200;
+    height: 110px;
+    margin: 150px 0 0 -134px;
+}
+.follow-us{
+    margin: 0 0 0 -148px;
+    padding-top: 235px;
+}
+.social-media{
+    margin: 280px 0 0 -145px;
+    padding: 50px 0 0 0;
+    font-size: 30px;
+    cursor: pointer;
+    color: #a5adc0;
+}
+.linkedin{
+    margin-left: -105px;
+}
+.twitter{
+    margin-left: -65px;
+}
+.instagram{
+    margin-left: -27px;
+}
+.youtube{
+    margin-left: 12px;
+}
+.social-media:hover{
+    color: #264a9f;
+}
+
+.tata-company-list{
+    list-style: none;
+    margin: 0 0 0 300px;
+}
+.tata-resouces-list{
+    list-style: none;
+    margin: -310px 0 0 550px;
+}
+.tata-services-list{
+    list-style: none;
+    margin: -175px 0 0 800px;
+}
+.tata-list-heading{
+    color: #264a9f;
+    font-size: 18px;
+}
+
+.tata-list-subheading{
+    margin: -15px 0 0 0;
+    color: rgba(7,30,84,.8);
+}
+
+
+
+.insurance-div{
+    border: 2px transparent;
+    background-color: #ebecf0;
+    border-radius: 12px;
+    line-height: 65px;
+    width: 1200px;
+    cursor: pointer;
+    color: #264a9f;
+    
+}
+.insurance-div hr{
+    margin: 0px 0 0 45px;
+    width: 1px;
+    height: 72px;
+    border-top:6px dotted;
+}
+.insurance-button{
+    height: 35px;
+    margin: 5px 0px 0 0;
+    border: none;
+    color: #264a9f;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+
+.footer-div{
+    background-color: #18478b;
+}
+.footer-line{
+ margin: -5px 0 0 80px;
+  border-top:2px dotted; 
+  background-color:#18478b;
+  width:1100px;
+    
+}
+
+.footer-about{
+    margin-bottom: 1px;
+    font-size: 13px;
+}
